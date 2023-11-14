@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081034804471",
+    "project_id": "connectdoc-38135",
+    "storage_bucket": "connectdoc-38135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081034804471:android:80436b5e8722290623d7f2",
+        "android_client_info": {
+          "package_name": "com.example.mobilecomputing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081034804471-1samvi4dp470jt139c8q5ovejhu6ouhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgxMqQkNhay0ODEAld8o_W-LmFcQ1_6_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081034804471-1samvi4dp470jt139c8q5ovejhu6ouhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
